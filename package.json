@@ -1,5 +1,5 @@
 {
-  "name": "@citychallenge/react-viro",
+  "name": "@98sean98/react-viro",
   "main": "index.js",
   "version": "2.17.2",
   "license": "MIT",
@@ -11,8 +11,8 @@
     "preset": "react-native"
   },
   "peerDependencies": {
-    "react": "^16.11.0",
-    "react-native": "^0.61.2"
+    "react": "^16.13.1",
+    "react-native": "^0.63.3"
   },
   "files": [
     "components",
